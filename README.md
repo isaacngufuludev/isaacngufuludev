@@ -22,5 +22,5 @@ I’m passionate about building **scalable, secure, and user-friendly frontend a
 
 ## 📫 Get in Touch
 - 💼 Portfolio: [https://teu-portfolio.com](https://isaacngufulu-portfolio.netlify.app/)
-- 📧 Email: isaacngufulu70@gmail.com@gmail.com
+- 📧 Email: isaacngufulu70@gmail.com
 - 💻 GitHub: https://github.com/isaacngufuludev
