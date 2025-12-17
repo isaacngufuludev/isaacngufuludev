@@ -16,6 +16,7 @@ I’m passionate about building **scalable, secure, and user-friendly frontend a
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacngufuludev&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacngufuludev&layout=compact&theme=radical)
 
 
