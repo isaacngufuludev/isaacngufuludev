@@ -1,4 +1,4 @@
-# 👋 Hi evryone, I'm Isaac Ngufulu
+# 👋 Hi everyone, I'm Isaac Ngufulu
 
 💻 Web Developer | Lifelong Learner
 
